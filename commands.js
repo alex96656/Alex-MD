@@ -38,7 +38,7 @@ export const commands = {
 ║ 👤 Owner: 〖ᴹᴿ•ᴀʟᴇ᥊᭄𓋆 ⁰⁰³
 ║ 📱 Platform: WhatsApp
 ║ 🔧 Framework: Baileys
-║ 💻 Language: JavaScript
+║ 💻 Language: python 
 ║ ⚡ Status: Online
 ║ 📅 Version: 1.0.0
 ╚════════════════════════════════╝`
